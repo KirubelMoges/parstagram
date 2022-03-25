@@ -1,8 +1,8 @@
-# Project 3 - *Twitter Clone*
+# Project 4 - *Instagram Clone*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Parstagram** 
 
-Time spent: **4** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
